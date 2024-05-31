@@ -169,7 +169,7 @@ main a:hover {
     font-weight: normal;
     color: #9E9A9A;
     font-size: 16px;
-    border: 0px;
+    border: 0;
 }
 
 .cardContainer {
